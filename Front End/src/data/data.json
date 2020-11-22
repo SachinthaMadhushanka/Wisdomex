@@ -1,0 +1,30 @@
+{
+    "Header": {
+
+        "title": "WISDOMEX"
+    },
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "CO222-C programming"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "CO221-Digital Design"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "CO226-DBMS"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "SC002-Science"
+        },
+        {
+            "img": "img/team/05.jpg",
+            "name": "MA001-Maths"
+        },
+        {
+            "img": "img/team/06.jpg",
+            "name": "MC006-Music"
+        }
+    ]
+}
